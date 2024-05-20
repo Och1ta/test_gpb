@@ -125,7 +125,4 @@ GET https://api.gazprombank.ru/very/important/docs?documents_date=
 4 В полученном DataFrame произвести переименование полей по след. маппингу  
 "key1" -> "document_id", "key2" -> "document_dt", "key3" -> "document_name"  
 5 Полученный DataFrame обогатить доп. столбцом:  
-"load_dt" -> значение "сейчас"(датавремя)  
-<details><summary>Вывод программы</summary>
-Привет
-</details>
+"load_dt" -> значение "сейчас"(датавремя)
